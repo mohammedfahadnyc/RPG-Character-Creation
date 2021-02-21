@@ -1,2 +1,3 @@
 # RPG-Character-Creation
 Creating RPG text Based Characters Using C++ OOP Concepts
+In this program we are tasked with creating the foundational classes to represent the Player character, that is, the entity within the game world that the user of the game software would control. A role-playing game or RPG is a game in which the user take on the persona (sometimes also called the avatar) of an in-game character, who goes on quests, fights enemies, looks for gold, crawls through dungeons or any other number of tasks, depending on the game.This program gets input from the user to create and store different characters. The characters are derived classes of a base class, player.
